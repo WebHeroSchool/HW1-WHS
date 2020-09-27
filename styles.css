@@ -1,19 +1,19 @@
-.nav__container {
+.menu {
   font-family: 'Roboto', sans-serif;
 }
 
-.text__main {
+.main-block__main-text {
   font-family: 'Roboto', sans-serif;
 }
 
-.text__button {
+.main-block__button {
     font-family: 'Roboto', sans-serif;
 }
 
-.nav__logo {
+.logo {
   font-family: 'PT Serif', serif;
 }
 
-.text__header {
+.main-block__title {
   font-family: 'PT Serif', serif;
 }
